@@ -6,9 +6,6 @@
  */
 #pragma once
 
-#ifndef GRIPPIPELINE_H_
-#define GRIPPIPELINE_H_
-
 namespace grip {
 
 /**
@@ -43,7 +40,3 @@ class GripPipeline {
 
 } // end namespace grip
 
-
-
-
-#endif /* GRIPPIPELINE_H_ */
