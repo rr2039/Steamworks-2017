@@ -5,7 +5,9 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="2039_hw Dash Prep Faults for NT transmit.vi" Type="VI" URL="../2039 Control System Library.llb/2039_hw Dash Prep Faults for NT transmit.vi"/>
 	<Item Name="2039_hw GetSingleTalonPoperty.vi" Type="VI" URL="../2039_hw GetSingleTalonPoperty.vi"/>
+	<Item Name="2039_hw INAVGetData.vi" Type="VI" URL="../2039_hw INAVGetData.vi"/>
 	<Item Name="2039_hw INAVOpenSensors.vi" Type="VI" URL="../2039_hw INAVOpenSensors.vi"/>
+	<Item Name="2039_hw INAVUpdatePosition.vi" Type="VI" URL="../2039_hw INAVUpdatePosition.vi"/>
 	<Item Name="2039_hw InitDTTalons.vi" Type="VI" URL="../2039_hw InitDTTalons.vi"/>
 	<Item Name="2039_hw OpenTalonDrive.vi" Type="VI" URL="../2039_hw OpenTalonDrive.vi"/>
 	<Item Name="2039_hw Talon Get Faults.vi" Type="VI" URL="../2039 Control System Library.llb/2039_hw Talon Get Faults.vi"/>
