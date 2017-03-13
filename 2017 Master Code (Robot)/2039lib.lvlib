@@ -9,8 +9,10 @@
 	<Item Name="2039_hw INAVOpenSensors.vi" Type="VI" URL="../2039_hw INAVOpenSensors.vi"/>
 	<Item Name="2039_hw INAVUpdatePosition.vi" Type="VI" URL="../2039_hw INAVUpdatePosition.vi"/>
 	<Item Name="2039_hw InitDTTalons.vi" Type="VI" URL="../2039_hw InitDTTalons.vi"/>
+	<Item Name="2039_hw MecanumCartesian.vi" Type="VI" URL="../2039_hw MecanumCartesian.vi"/>
 	<Item Name="2039_hw OpenTalonDrive.vi" Type="VI" URL="../2039_hw OpenTalonDrive.vi"/>
 	<Item Name="2039_hw Talon Get Faults.vi" Type="VI" URL="../2039 Control System Library.llb/2039_hw Talon Get Faults.vi"/>
 	<Item Name="2039_hw Talon Get Metrics.vi" Type="VI" URL="../2039 Control System Library.llb/2039_hw Talon Get Metrics.vi"/>
+	<Item Name="2039_hw UpdateMecanumMotors.vi" Type="VI" URL="../2039_hw UpdateMecanumMotors.vi"/>
 	<Item Name="Toggle Switch.vi" Type="VI" URL="../../../../LabVIEW Data/Servo Testing/Toggle Switch.vi"/>
 </Library>
